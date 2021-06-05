@@ -1,2 +1,20 @@
-let age = 'achtenveertig'
-console.log(age);
+console.log("Hello Winc Academy");
+let name = "Saskia";
+console.log(name);
+// Je kunt geen variabele aanmaken met de naam if.
+let sum = 2 + 2;
+console.log("sum:", sum);
+let sumWithStrings = "2" + "2";
+console.log("sum with strings:", sumWithStrings);
+let subtraction = 4 - 2;
+console.log("subtraction:", subtraction);
+let multiplication =4 * 4;
+console.log("multiplication:", multiplication);
+let division = 4 / 2;
+console.log("division:", division);
+let modulus = 16 % 4;
+console.log("modulus:", modulus);
+let age = 48;
+console.log(typeof age);
+let ageAsString = "48";
+console.log(typeof ageAsString);
